@@ -12,8 +12,9 @@ public class Company {
         System.out.println(Lastname);
     }
     public int add(int a,int b){
-        return a+b;
+        return a-b;
     }
+
 
     public static void main(String[] args) {
         Company c1 = new Company();
