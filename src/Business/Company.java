@@ -22,10 +22,7 @@ public class Company {
         System.out.println(c1.getMiddleInitial());
         c1.saySomething("Muhith");
         System.out.println(c1.add(5,3));
-        System.out.println(c1.add(5,3));
-        System.out.println(c1.add(5,3));
-        System.out.println(c1.add(5,3));
-        System.out.println(c1.add(5,3));
+
 
 
     }
